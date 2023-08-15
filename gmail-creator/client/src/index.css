@@ -1,0 +1,52 @@
+* {
+  box-shadow: none !important;
+}
+
+/* tr th input:not([type="checkbox"]), tr th select{
+  /* border-radius: 0 !important; 
+  border: none !important;
+} */
+
+nav.navbar {
+  height: 58px !important;
+}
+
+.content-wrapper {
+  height: calc(100vh - 58px);
+}
+
+.content-wrapper .nav-side {
+  height: 100%;
+  width: 340px;
+}
+
+.nav-tabs .nav-link {
+  border-radius: 0;
+}
+
+.nav-tabs .nav-link.active {
+  border-color: #dee2e6 #fff;
+}
+
+.content-wrapper .page-content {
+  height: 100%;
+  width: 100%;
+}
+
+.content-wrapper .page-content .page {
+  height: 100%;
+  width: 100%;
+}
+
+table
+{
+  table-layout: fixed;
+}
+
+table th {
+  font-weight: normal !important;
+}
+
+table th *:not(input[type=checkbox]) {
+  border: none !important;
+}

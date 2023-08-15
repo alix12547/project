@@ -1,0 +1,80 @@
+1667328493885	geckodriver	INFO	Listening on 127.0.0.1:54916
+1667328619601	geckodriver	INFO	Listening on 127.0.0.1:55019
+1667328654362	geckodriver	INFO	Listening on 127.0.0.1:55038
+1667328709694	geckodriver	INFO	Listening on 127.0.0.1:55070
+1667328836243	geckodriver	INFO	Listening on 127.0.0.1:55163
+1667329717486	geckodriver	INFO	Listening on 127.0.0.1:64165
+1667329717994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofilep3e0N2"
+1667329718355	Marionette	INFO	Marionette enabled
+1667329718360	Marionette	INFO	Listening on port 64173
+Read port: 64173
+WebDriver BiDi listening on ws://127.0.0.1:64166
+1667329718500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofilep3e0N2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64166/devtools/browser/79844001-a06e-4b4d-ac4f-91b871b31e6d
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667329720062	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+Shutting down due to socket process crash.
+1667329729804	geckodriver	INFO	Listening on 127.0.0.1:64274
+1667329730317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileFVteNV"
+1667329730636	Marionette	INFO	Marionette enabled
+1667329730641	Marionette	INFO	Listening on port 64282
+WebDriver BiDi listening on ws://127.0.0.1:64275
+Read port: 64282
+1667329730779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileFVteNV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64275/devtools/browser/b44e26a8-7840-4b20-9708-b232158d9e09
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667329732202	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667331720854	geckodriver	INFO	Listening on 127.0.0.1:51286
+1667331721354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileV6B8ho"
+1667331721970	Marionette	INFO	Marionette enabled
+1667331721976	Marionette	INFO	Listening on port 51295
+Read port: 51295
+WebDriver BiDi listening on ws://127.0.0.1:51287
+1667331722181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileV6B8ho\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51287/devtools/browser/9504e198-f60f-48b5-b825-9bcd7d7c08d3
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667331727809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667331753893	geckodriver	INFO	Listening on 127.0.0.1:51555
+1667331754364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileZHdWPB"
+1667331754764	Marionette	INFO	Marionette enabled
+1667331754769	Marionette	INFO	Listening on port 51563
+Read port: 51563
+WebDriver BiDi listening on ws://127.0.0.1:51556
+1667331754939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\7\\rust_mozprofileZHdWPB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51556/devtools/browser/34f384e5-e524-4af2-8052-cffc8f535f0e
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1667331756581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1668614680601	geckodriver	INFO	Listening on 127.0.0.1:49359
+1668614681109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\10\\rust_mozprofile1J5iHr"
+1668614681459	Marionette	INFO	Marionette enabled
+1668614681465	Marionette	INFO	Listening on port 49367
+Read port: 49367
+WebDriver BiDi listening on ws://127.0.0.1:49360
+1668614681611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668614705149	geckodriver	INFO	Listening on 127.0.0.1:49405
+1668614705648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\10\\rust_mozprofilekfSuzZ"
+1668614705986	Marionette	INFO	Marionette enabled
+1668614705993	Marionette	INFO	Listening on port 49416
+Read port: 49416
+WebDriver BiDi listening on ws://127.0.0.1:49406
+1668614706125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\10\\rust_mozprofilekfSuzZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49406/devtools/browser/a1c113f6-810e-455d-a225-b4e3e26cb2de
+1668614779059	geckodriver	INFO	Listening on 127.0.0.1:49515
+1668614779559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin4\\AppData\\Local\\Temp\\10\\rust_mozprofilekKglBN"
+1668614779918	Marionette	INFO	Marionette enabled
+1668614779924	Marionette	INFO	Listening on port 49525
+Read port: 49525
+WebDriver BiDi listening on ws://127.0.0.1:49516
+1668614780061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin4\\AppData\\Local\\Temp\\10\\rust_mozprofilekKglBN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49516/devtools/browser/e3630f4b-ab0b-4850-a4af-7fa8ba1ca017
+1668616516448	geckodriver	INFO	Listening on 127.0.0.1:55687

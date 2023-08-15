@@ -1,0 +1,47 @@
+[
+    {
+        "first_name": "حامد",
+        "last_name": "موسوی",
+        "email": "hmd.mwswy9wa@gmail.com",
+        "gender": "male",
+        "password": "V6epWO68YdO2Zb",
+        "email_recovery": "hmd.mwswy59voy@gmail.com",
+        "recovery_number": "+212613934144",
+        "birthday": {
+            "year": "1956",
+            "month": "03",
+            "day": "22"
+        },
+        "proxy": "63.143.52.66:92"
+    },
+    {
+        "first_name": "Adalberto",
+        "last_name": "Soto",
+        "email": "adalberto.sotojo3@gmail.com",
+        "gender": "male",
+        "password": "*Tj3dm0&xD&lbW",
+        "email_recovery": "adalberto.sotoyl735@gmail.com",
+        "recovery_number": "+212616439270",
+        "birthday": {
+            "year": "1978",
+            "month": "09",
+            "day": "05"
+        },
+        "proxy": "184.105.166.228:92"
+    },
+    {
+        "first_name": "Teresa",
+        "last_name": "Herrero",
+        "email": "teresa.herrerorqb@gmail.com",
+        "gender": "female",
+        "password": "NAmZTFu-h2$%kL",
+        "email_recovery": "teresa.herrerosdm4f@gmail.com",
+        "recovery_number": "+212616440638",
+        "birthday": {
+            "year": "1957",
+            "month": "04",
+            "day": "10"
+        },
+        "proxy": "62.210.29.68:92"
+    }
+]
